@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .Task_header {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    height: 10vh;
+    background-color: #1A4862;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+  }
+
+  .Task_header .navbar a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #D7DFA3;
+    margin-right: 55px;
+  }
+  .Task_header .navbar a i {
+    margin-right: 10px;
+  }
+
