@@ -45,4 +45,4 @@ Library.belongsTo(Book);
 
 ## Project Output
 
-- Library Records ![Library Records](https://i.imgur.com/Ovfd4zy.png)
+- Library Records ![Library Records](images/library-photo.png)
